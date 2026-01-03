@@ -4,7 +4,7 @@
 原版作者为SillyTavern社区的cohee guy/dude
 此版本为基于原版的二改版本
 # 如何使用
-1.使用 URL 通过内置扩展管理器安装：https://github.com/gfdxvv596/TypingIndicator.git
+1.使用 URL 通过内置扩展管理器安装：[https://github.com/gfdxvv596/TypingIndicator.git](https://github.com/qwertqqasndhskjha/111.git)
 2.在扩展设置面板中找到“打字指示器”并启用它。
 3.如果您希望在流式传输消息时显示指示器，请选中“如果流式传输显示”。
 # 许可证
